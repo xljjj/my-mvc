@@ -1,2 +1,2 @@
 # my-mvc
-Use Java EE technology and reference the Spring MVC web framework to design and implement a similar framework, and use this framework to build a simple web application.
+利用Java EE技术参考Spring MVC Web框架，设计并实现类似的框架，并利用该框架构建一个简单的Web应用。
